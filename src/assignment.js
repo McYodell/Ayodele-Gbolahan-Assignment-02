@@ -23,12 +23,12 @@ function sumOfNumbers(arrayOfNumbers) {
 };
  //return arrayOfNumbers.length;
 
-let glory = [2,3,4,5,6,7]
-
+/*Function Test for Challenge 1
+let glory = [2,3,4,5,6,7,10]
 let total = sumOfNumbers(glory)
-console.log(total)
+console.log(total)*/
 
-//assignment.sumOfNumbers = sumOfNumbers;
+assignment.sumOfNumbers = sumOfNumbers;
 
 /**
  * Challenge - 2
@@ -49,9 +49,11 @@ function countEvenNumbers(arrayOfNumbers) {
   //return arrayOfNumbers.length;
 }
 
+/* Function Test for Challenge 2
 let even = countEvenNumbers(glory)
-console.log(even)
-// assignment.countEvenNumbers = countEvenNumbers;
+console.log(even)*/
+
+assignment.countEvenNumbers = countEvenNumbers;
 
 /**
  * Challenge - 3
